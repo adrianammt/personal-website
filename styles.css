@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+/*check for more reset values*/
+
+body {
+  margin: auto;
+}
+
+main {
+  background-color: #ede7e3;
+}
+.menu li {
+  display: inline;
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  display: inline-flex;
+  justify-content: space-around;
+  margin: auto;
+}
+
+ul.menu img {
+  height: 2rem;
+}
+
+.fmenu {
+  list-style: none;
+}
+footer {
+  display: flex;
+  background-color: #16697a;
+}
+
+.icon {
+  height: 1rem;
+}
