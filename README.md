@@ -1,2 +1,2 @@
-# presonal-website
+# personal-website
 My personal website
