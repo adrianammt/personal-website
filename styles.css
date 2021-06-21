@@ -84,6 +84,7 @@ main {
 #quote p {
   font-size: 1.5rem;
   text-align: center;
+  padding: 0 1rem;
 }
 
 main section {
@@ -114,7 +115,7 @@ main section {
 }
 
 .aboutpart p {
-  text-align: justify;
+  text-align: left;
   width: 20rem;
   margin-bottom: 1rem;
 }
@@ -195,5 +196,6 @@ footer {
   .aboutpart p {
     padding-left: 3rem;
     width: 30rem;
+    text-align: justify;
   }
 }
